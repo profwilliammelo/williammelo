@@ -4,10 +4,12 @@ date: "2021-08-15"
 description: A brief guide to how to setup series part 2
 series:
 - series-setup
-title: Series Part 2
+title: Na mídia
 ---
 
 In this second part of the series we'll show you where to find the full series
+
+
 
 <!--more-->
 

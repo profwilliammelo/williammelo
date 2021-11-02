@@ -1,9 +1,9 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "William Melo"
+author = "William Melo"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "Profº Me. William Melo"
+profilePicture = "https://scontent.fgig4-1.fna.fbcdn.net/v/t1.6435-9/123359046_3585155711506732_882986954016671824_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHhzvt2YGRCGuh91AyPQpWX5bSGY8DblnjltIZjwNuWeFA8j1ZC31tDE2o-vBpb4CoqG1kC2wXUTImULjW8lxC5&_nc_ohc=gm63St0B15cAX8GYQtS&_nc_ht=scontent.fgig4-1.fna&oh=b4b15e225c9f964c33113a675f08b4b8&oe=61A7D154"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -11,7 +11,7 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+images = ["https://scontent.fgig4-1.fna.fbcdn.net/v/t1.6435-9/123359046_3585155711506732_882986954016671824_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHhzvt2YGRCGuh91AyPQpWX5bSGY8DblnjltIZjwNuWeFA8j1ZC31tDE2o-vBpb4CoqG1kC2wXUTImULjW8lxC5&_nc_ohc=gm63St0B15cAX8GYQtS&_nc_ht=scontent.fgig4-1.fna&oh=b4b15e225c9f964c33113a675f08b4b8&oe=61A7D154"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
@@ -43,19 +43,19 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://br.linkedin.com/in/williamcorreademelo"
 
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/profwilliammelo/williammelo/"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/profwilliammelo"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:williamcorrea95@gmail.com"

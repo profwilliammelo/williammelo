@@ -1,12 +1,12 @@
-baseURL = "https://profwilliammelo.github.io/williammelo/"
+baseURL = "https://profwilliammelo.github.io/williammelo/" #precisa colocar site inteiro a ser hospedado
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "William Melo"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
-publishDir = "docs/"
+publishDir = "docs/" #precisa adicionar isso para publicar no git hub pages
 
 # Enable Disqus
 #disqusShortname = ""

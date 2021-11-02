@@ -1,6 +1,6 @@
   [[main]]
-  name = "Home"
-  identifier = "home"
+  name = "Página inicial"
+  identifier = "Página inicial"
   weight = 100
   url = "/"
 
@@ -11,15 +11,15 @@
   url = "/post/"
 
   [[main]]
-  name = "About"
+  name = "Sobre"
   weight = 300
-  identifier = "about"
+  identifier = "Sobre"
   url = "/about/"
 
   [[main]]
-  name = "Contact"
+  name = "Contato"
   weight = 400
-  identifier = "contact"
+  identifier = "Contato"
   url = "/contact/"
 
   [[footer]]
