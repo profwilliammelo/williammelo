@@ -16,11 +16,21 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 
 You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
+```{r}
+
+
+y <- rnorm(1000, mean = 2, sd = 4)
+
+x <- faux::rnorm_pre(y, r = 0.80)
+
+library(tidyverse)
+
+data.frame(x = x, y = y) %>% ggplot(aes(x = x, y = y)) + geom_point(col = "blue") + geom_smooth(col = "red", method = "lm", se = F) + theme_classic()
+
+stargazer::stargazer(lm(y ~x),  type = "text")
+
 ```
+
 
 # Including Plots
 

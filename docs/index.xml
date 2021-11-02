@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
+    <title>William Melo</title>
     <link>https://profwilliammelo.github.io/williammelo/</link>
-    <description>Recent content on My blog</description>
+    <description>Recent content on William Melo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://profwilliammelo.github.io/williammelo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://profwilliammelo.github.io/williammelo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Series Part 2</title>
+      <title>TESTE</title>
+      <link>https://profwilliammelo.github.io/williammelo/english/post/2021-11-02-teste/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://profwilliammelo.github.io/williammelo/english/post/2021-11-02-teste/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Na mídia</title>
       <link>https://profwilliammelo.github.io/williammelo/post/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
@@ -109,17 +120,6 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://profwilliammelo.github.io/williammelo/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://profwilliammelo.github.io/williammelo/contact/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
       <title>Math Typesetting</title>
       <link>https://profwilliammelo.github.io/williammelo/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
@@ -169,6 +169,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://profwilliammelo.github.io/williammelo/imprint/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://profwilliammelo.github.io/williammelo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://profwilliammelo.github.io/williammelo/contact/</guid>
       
         <description></description>
       
